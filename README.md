@@ -15,4 +15,4 @@ docker-compose up airflow-init
 ```
 docker-compose up
 ```
-Copy and paste all the contents of the `Scripts` folder to the `/dags` folder 
+Copy and paste all the contents of the `scripts` folder to `/dags` folder 

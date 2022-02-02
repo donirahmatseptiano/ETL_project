@@ -1,8 +1,8 @@
 # final_project
 
-##How to run:
+How to run:
 
-###Run this command in terminal
+Run this command in terminal
 ```
 mkdir -p ./dags ./logs ./plugins
 ```
